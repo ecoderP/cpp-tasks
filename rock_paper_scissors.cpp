@@ -1,6 +1,5 @@
 // Written By Paul Onyebuchi
-// ID: W2245353
-// Title: M05 LAB - ROCK, PAPER, SCISSORS GAME
+// Title: ROCK, PAPER, SCISSORS GAME
 // Description: This program lets the user play Rock, Paper, Scissors against the computer.
 
 #include <iostream>
