@@ -1,6 +1,5 @@
 // Written By Paul Onyebuchi
-// ID: W2245353
-// Title: M06 LAB - TIC-TAC-TOE GAME
+// Title: TIC-TAC-TOE GAME
 // Description: This program two players play a game of tic-tac-toe.
 
 #include <iostream>
